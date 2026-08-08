@@ -1,2 +1,0 @@
-# Yearly Score
-
