@@ -100,6 +100,7 @@ Date	Milestone	Area
 	
 
 🌱 JOURNEY
+
 NOW
  ↓
 Learn
