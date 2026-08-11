@@ -1,295 +1,172 @@
 🌱 MY JOURNEY
-My personal system for learning, building, exploring, competing, leading, contributing, and growing.
 
-Learn. Build. Explore. Compete. Lead. Contribute. Grow.
+<p align="center"> <b>My personal system for learning, building, exploring, competing, leading, and growing.</b> </p>
 
-🧭 What is MY JOURNEY?
+<p align="center"> <code>Learn</code> · <code>Build</code> · <code>Explore</code> · <code>Compete</code> · <code>Lead</code> · <code>Contribute</code> · <code>Grow</code> </p>
 
-MY JOURNEY is my personal GitHub-based system for organizing my education, skills, experiences, projects, activities, and growth.
+📌 About
 
-It keeps the important parts of my journey in one simple place without creating unnecessary folders.
+MY JOURNEY is my personal GitHub-based system for documenting and organizing my growth over the years.
 
-I use it to track:
+It brings together my:
 
-🎓 Academics & Exams
-🧠 Learning & Skills
+🎓 Academics & entrance exams
+💻 Technology & skills
+📚 Reading & learning
 🔬 Research
-🛠️ Projects & Startups
+🛠️ Projects & startups
 💼 Internships
 🏆 Competitions
-🎤 Leadership & Activities
-📚 Reading
-🏊 Fitness, Swimming & Dance
-❤️ Social Impact
-🎯 Universities & Scholarships
-🏅 Portfolio & Achievements
-🪪 Personal Identity
-🗂️ Structure
+🎤 Leadership & activities
+🏊 Fitness, swimming & dance
+❤️ Social impact
+🎯 Universities & scholarships
+🏅 Portfolio & achievements
+🪪 Personal identity
+
+The goal is simple:
+
+Keep everything important in one place without making the system complicated.
+
+🗂️ Repository Structure
 MY_JOURNEY/
 │
-├── README.md
+├── 00_COMMAND_CENTER/    # Current priorities, deadlines & tasks
+├── 01_IDENTITY/          # Who I am, values & personal story
+├── 02_ACADEMICS/         # School & entrance exams
+├── 03_LEARNING/          # Skills, technology & reading
+├── 04_RESEARCH/          # Research & experiments
+├── 05_BUILDING/          # Projects, startups & writing
+├── 06_INTERNSHIPS/       # Internship experience
+├── 07_COMPETITIONS/      # Competitions & submissions
+├── 08_LEADERSHIP/        # Gavel, MUN & leadership
+├── 09_LIFE/              # Fitness, swimming, dance & hobbies
+├── 10_IMPACT/            # Volunteering & community work
+├── 11_FUTURE/            # Universities & scholarships
+├── 12_PORTFOLIO/         # Resume & strongest work
+├── 13_ARCHIVE/           # Completed work & old plans
 │
-├── 00_COMMAND_CENTER/
-│   ├── DASHBOARD.md
-│   ├── PRIORITIES.md
-│   ├── DEADLINES.md
-│   └── INBOX.md
+├── TEMPLATES/            # Reusable templates
 │
-├── 01_IDENTITY/
-│   ├── WHO_I_AM.md
-│   ├── VALUES.md
-│   ├── INTERESTS.md
-│   ├── STRENGTHS.md
-│   ├── WEAKNESSES.md
-│   ├── PRINCIPLES.md
-│   └── MY_STORY.md
-│
-├── 02_ACADEMICS/
-│   ├── SCHOOL/
-│   └── EXAMS/
-│       ├── INDIA/
-│       │   ├── JEE/
-│       │   ├── BITSAT/
-│       │   ├── CUET-UG/
-│       │   ├── IISER-IAT/
-│       │   └── NEST/
-│       │
-│       └── ABROAD/
-│           ├── SAT/
-│           └── IELTS/
-│
-├── 03_LEARNING/
-│   ├── PROGRAMMING/
-│   ├── COMPUTER_SCIENCE/
-│   ├── AI/
-│   ├── ROBOTICS/
-│   ├── READING/
-│   └── OTHER/
-│
-├── 04_RESEARCH/
-│   ├── IDEAS/
-│   ├── PAPERS/
-│   ├── NOTES/
-│   └── EXPERIMENTS/
-│
-├── 05_BUILDING/
-│   ├── PROJECTS/
-│   │   ├── IDEAS/
-│   │   ├── ACTIVE/
-│   │   └── COMPLETED/
-│   ├── STARTUPS/
-│   │   ├── IDEAS/
-│   │   └── ACTIVE/
-│   └── WRITING/
-│
-├── 06_INTERNSHIPS/
-│   ├── OPPORTUNITIES/
-│   ├── APPLICATIONS/
-│   ├── ACTIVE/
-│   └── COMPLETED/
-│
-├── 07_COMPETITIONS/
-│   ├── UPCOMING/
-│   ├── APPLICATIONS/
-│   ├── SUBMISSIONS/
-│   └── RESULTS/
-│
-├── 08_LEADERSHIP/
-│   ├── GAVEL/
-│   ├── MUN/
-│   ├── PUBLIC_SPEAKING/
-│   ├── LEADERSHIP/
-│   └── OTHER/
-│
-├── 09_LIFE/
-│   ├── FITNESS/
-│   ├── SWIMMING/
-│   ├── DANCE/
-│   ├── HOBBIES/
-│   ├── HABITS.md
-│   └── REFLECTIONS.md
-│
-├── 10_IMPACT/
-│   ├── VOLUNTEERING/
-│   ├── COMMUNITY/
-│   └── CONTRIBUTIONS/
-│
-├── 11_FUTURE/
-│   ├── UNIVERSITIES.md
-│   └── SCHOLARSHIPS.md
-│
-├── 12_PORTFOLIO/
-│   ├── RESUME.md
-│   ├── ACHIEVEMENTS.md
-│   ├── PROJECTS.md
-│   ├── RESEARCH.md
-│   └── BEST_WORK.md
-│
-├── 13_ARCHIVE/
-│   ├── COMPLETED/
-│   ├── OLD_PLANS/
-│   └── PAST_REVIEWS/
-│
-└── TEMPLATES/
-    ├── DAILY.md
-    ├── WEEKLY.md
-    ├── MONTHLY.md
-    ├── NOTE.md
-    ├── EXAM.md
-    ├── PROJECT.md
-    ├── RESEARCH.md
-    ├── READING.md
-    └── APPLICATION.md
-🧭 What Goes Where?
-00_COMMAND_CENTER
-
-My control center.
-
-File	Purpose
-DASHBOARD.md	Current overall status
-PRIORITIES.md	What matters most right now
-DEADLINES.md	Important dates
-INBOX.md	Temporary ideas and tasks
-
-This is where I start when I need to decide what to do next.
-
-01_IDENTITY
-
-Who I am and who I am becoming.
-
-Contains:
-
-Who I am
-Values
-Interests
-Strengths
-Weaknesses
-Principles
-My story
-
-This folder is about my identity, not my résumé.
-
+└── README.md             # You are here
+🧭 Sections
+#	Section	Purpose
+00	Command Center	What needs my attention
+01	Identity	Who I am
+02	Academics	School & exams
+03	Learning	Skills & knowledge
+04	Research	Questions & discoveries
+05	Building	Things I create
+06	Internships	Professional experience
+07	Competitions	Competitive journey
+08	Leadership	Leadership & communication
+09	Life	Personal life & activities
+10	Impact	Helping others
+11	Future	Universities & scholarships
+12	Portfolio	Strongest achievements
+13	Archive	Past work & history
+🎓 Academics & Exams
 02_ACADEMICS
+02_ACADEMICS/
+├── SCHOOL/
+└── EXAMS/
+    ├── INDIA/
+    │   ├── JEE/
+    │   ├── BITSAT/
+    │   ├── CUET-UG/
+    │   ├── IISER-IAT/
+    │   └── NEST/
+    │
+    └── ABROAD/
+        ├── SAT/
+        └── IELTS/
 
-School and entrance-exam preparation.
+Each exam follows the same structure:
 
-School
-SCHOOL/
+EXAM/
+├── MISTAKES/
+├── MOCK_TESTS/
+├── PYQS/
+├── REVISION/
+└── NOTES/
 
-Regular academic work.
+This keeps preparation consistent across all exams.
 
-Exams
-EXAMS/
-├── INDIA/
-│   ├── JEE/
-│   ├── BITSAT/
-│   ├── CUET-UG/
-│   ├── IISER-IAT/
-│   └── NEST/
-│
-└── ABROAD/
-    ├── SAT/
-    └── IELTS/
-
-Each exam has the same preparation structure:
-
-MISTAKES/
-MOCK_TESTS/
-PYQS/
-REVISION/
-NOTES/
-
-This keeps exam preparation consistent.
-
+💻 Learning
 03_LEARNING
+03_LEARNING/
+├── PROGRAMMING/
+├── COMPUTER_SCIENCE/
+├── AI/
+├── ROBOTICS/
+├── READING/
+└── OTHER/
 
-Skills and knowledge I develop outside regular academics.
-
-PROGRAMMING/
-COMPUTER_SCIENCE/
-AI/
-ROBOTICS/
-READING/
-OTHER/
-
-Examples:
+Used for:
 
 Programming
 Computer Science
-Artificial Intelligence
+AI
 Robotics
-Books
+Books and reading
 Courses
-New skills
+Other skills
+🔬 Research
 04_RESEARCH
+04_RESEARCH/
+├── IDEAS/
+├── PAPERS/
+├── NOTES/
+└── EXPERIMENTS/
 
-Questions I investigate and discoveries I make.
-
-IDEAS/
-PAPERS/
-NOTES/
-EXPERIMENTS/
-
-Use this for:
+For:
 
 Research questions
 Papers
-Literature exploration
-Experiments
 Research notes
+Experiments
 Discoveries
+🛠️ Building
 05_BUILDING
+05_BUILDING/
+├── PROJECTS/
+│   ├── IDEAS/
+│   ├── ACTIVE/
+│   └── COMPLETED/
+│
+├── STARTUPS/
+│   ├── IDEAS/
+│   └── ACTIVE/
+│
+└── WRITING/
 
-Things I create.
+This is where ideas become real things.
 
-Projects
-PROJECTS/
-├── IDEAS/
+💼 Internships
+06_INTERNSHIPS
+06_INTERNSHIPS/
+├── OPPORTUNITIES/
+├── APPLICATIONS/
 ├── ACTIVE/
 └── COMPLETED/
-Startups
-STARTUPS/
-├── IDEAS/
-└── ACTIVE/
-Writing
-WRITING/
 
-This is where I turn knowledge and ideas into real work.
+Tracks:
 
-06_INTERNSHIPS
-
-My professional experience and opportunities.
-
-OPPORTUNITIES/
-APPLICATIONS/
-ACTIVE/
-COMPLETED/
-
-Use it for:
-
-Internship opportunities
+Opportunities
 Applications
 Interviews
 Active internships
 Completed internships
-Experience and lessons
-
-Completed internships can later be represented in:
-
-12_PORTFOLIO/RESUME.md
-
-The detailed internship record stays here.
-
+Professional experience
+🏆 Competitions
 07_COMPETITIONS
+07_COMPETITIONS/
+├── UPCOMING/
+├── APPLICATIONS/
+├── SUBMISSIONS/
+└── RESULTS/
 
-My competitive journey.
-
-UPCOMING/
-APPLICATIONS/
-SUBMISSIONS/
-RESULTS/
-
-Use it for:
+For:
 
 Hackathons
 Olympiads
@@ -297,58 +174,44 @@ Coding competitions
 Science competitions
 Entrepreneurship competitions
 Academic competitions
-Other contests
+🎤 Leadership
 08_LEADERSHIP
+08_LEADERSHIP/
+├── GAVEL/
+├── MUN/
+├── PUBLIC_SPEAKING/
+├── LEADERSHIP/
+└── OTHER/
 
-Leadership, communication and activities.
-
-GAVEL/
-MUN/
-PUBLIC_SPEAKING/
-LEADERSHIP/
-OTHER/
-
-Track:
+For:
 
 Gavel
 MUN
-Speeches
-Debates
+Public speaking
+Debate
 Leadership roles
 Clubs
 Events
-Other activities
+🌱 Life
 09_LIFE
+09_LIFE/
+├── FITNESS/
+├── SWIMMING/
+├── DANCE/
+├── HOBBIES/
+├── HABITS.md
+└── REFLECTIONS.md
 
-My life beyond academics and work.
+A place for the parts of life that aren't school or work.
 
-FITNESS/
-SWIMMING/
-DANCE/
-HOBBIES/
-HABITS.md
-REFLECTIONS.md
-
-Includes:
-
-🏋️ Fitness
-🏊 Swimming
-💃 Dance
-🎨 Hobbies
-🔁 Habits
-🪞 Reflections
-
-My life is bigger than academics, so this has its own place.
-
+❤️ Impact
 10_IMPACT
+10_IMPACT/
+├── VOLUNTEERING/
+├── COMMUNITY/
+└── CONTRIBUTIONS/
 
-How I contribute to other people and my community.
-
-VOLUNTEERING/
-COMMUNITY/
-CONTRIBUTIONS/
-
-Use it for:
+For:
 
 Volunteering
 Teaching
@@ -356,54 +219,47 @@ Community work
 Social projects
 Contributions
 Impact
+🎯 Future
 11_FUTURE
 
-My university and scholarship planning.
+Kept intentionally simple.
 
-UNIVERSITIES.md
-SCHOLARSHIPS.md
+11_FUTURE/
+├── UNIVERSITIES.md
+└── SCHOLARSHIPS.md
 
-This folder stays intentionally small.
+Contains:
 
-It contains:
-
-Universities I am considering
-Programs and opportunities
+Universities
+Programs
 Scholarship opportunities
 Requirements
-Important information for future applications
+Important application information
+🏅 Portfolio
 12_PORTFOLIO
+12_PORTFOLIO/
+├── RESUME.md
+├── ACHIEVEMENTS.md
+├── PROJECTS.md
+├── RESEARCH.md
+└── BEST_WORK.md
 
-My strongest evidence of growth.
+This is my showcase.
 
-RESUME.md
-ACHIEVEMENTS.md
-PROJECTS.md
-RESEARCH.md
-BEST_WORK.md
+It should contain my strongest work, not copies of everything in the repository.
 
-This is my showcase, not a second storage system.
-
-Only my strongest work belongs here.
-
+🗄️ Archive
 13_ARCHIVE
+13_ARCHIVE/
+├── COMPLETED/
+├── OLD_PLANS/
+└── PAST_REVIEWS/
 
-My record of the past.
+Used to preserve important history without cluttering the active system.
 
-COMPLETED/
-OLD_PLANS/
-PAST_REVIEWS/
+Archive important history. Don't delete it unnecessarily.
 
-Use the archive when something is no longer active but is still worth keeping.
-
-The archive exists to preserve my journey without cluttering my active workspace.
-
-Archive, don't delete important history.
-
-🧩 TEMPLATES
-
-Templates are kept separate from the main system.
-
+🧩 Templates
 TEMPLATES/
 ├── DAILY.md
 ├── WEEKLY.md
@@ -414,165 +270,138 @@ TEMPLATES/
 ├── RESEARCH.md
 ├── READING.md
 └── APPLICATION.md
-Template Rule
 
-Use a template only when it saves time.
+Templates are optional.
 
-Templates exist to make the system easier — not bigger.
+If a template doesn't save time, I don't need it.
 
-📌 Where Does Something Go?
-Question	Folder
-Is it about me?	01_IDENTITY
-Is it school or exam related?	02_ACADEMICS
-Am I learning it?	03_LEARNING
-Am I investigating it?	04_RESEARCH
-Am I creating it?	05_BUILDING
-Is it an internship?	06_INTERNSHIPS
-Is it a competition?	07_COMPETITIONS
-Is it leadership or communication?	08_LEADERSHIP
-Is it part of my personal life?	09_LIFE
-Does it help others?	10_IMPACT
-Is it about universities or scholarships?	11_FUTURE
-Is it one of my strongest accomplishments?	12_PORTFOLIO
-Is it no longer active but worth keeping?	13_ARCHIVE
+📍 Where Does Something Go?
+If it is...	Put it in...
+About me	01_IDENTITY
+School or exams	02_ACADEMICS
+Something I'm learning	03_LEARNING
+Something I'm researching	04_RESEARCH
+Something I'm building	05_BUILDING
+An internship	06_INTERNSHIPS
+A competition	07_COMPETITIONS
+Leadership/activity	08_LEADERSHIP
+Personal life	09_LIFE
+Helping others	10_IMPACT
+University/scholarship	11_FUTURE
+Best achievements	12_PORTFOLIO
+Finished/old material	13_ARCHIVE
 🚫 No Duplication
 
-Every piece of information should have one main home.
+Each important item should have one main home.
 
-For example, if I build a project:
+For example:
 
+Project
+  ↓
 05_BUILDING/PROJECTS/ACTIVE/
-
-If I submit it to a competition:
-
+  ↓
+Competition submission
+  ↓
 07_COMPETITIONS/SUBMISSIONS/
-
-If it becomes one of my strongest projects:
-
+  ↓
+Strong portfolio project
+  ↓
 12_PORTFOLIO/PROJECTS.md
-
-If the project is finished and no longer active:
-
+  ↓
+Finished
+  ↓
 13_ARCHIVE/COMPLETED/
 
-The original information should not be unnecessarily copied everywhere.
+The original project does not need to be copied into every section.
 
 One source of truth.
 
-🔄 How I Use MY JOURNEY
+🔄 How I Use It
 Daily
-CHECK
-  ↓
-00_COMMAND_CENTER
-  ↓
-CHECK PRIORITIES
-  ↓
+COMMAND CENTER
+      ↓
+PRIORITIES
+      ↓
 DO THE WORK
-  ↓
+      ↓
 UPDATE WHAT CHANGED
-
-I don't need to update every folder every day.
-
 Weekly
-
-Review:
-
-What did I accomplish?
-What did I learn?
-What went wrong?
-What needs improvement?
-What matters next?
 
 Use:
 
 TEMPLATES/WEEKLY.md
+
+Check:
+
+What did I accomplish?
+What did I learn?
+What needs improvement?
+What should I focus on next?
 Monthly
 
-Look at:
+Use:
+
+TEMPLATES/MONTHLY.md
+
+Review the bigger picture:
 
 Academics
 Exams
 Learning
 Projects
-Research
 Internships
 Competitions
 Leadership
 Life
 Impact
-Future plans
-
-Use:
-
-TEMPLATES/MONTHLY.md
-🧠 Core Rules
-1. Keep it simple.
+Future
+📜 Rules
+Keep it simple
 
 Don't create folders unless they solve a real problem.
 
-2. One source of truth.
+Keep one source of truth
 
-Don't keep unnecessary copies of the same information.
+Avoid unnecessary copies.
 
-3. Record real progress.
+Record real progress
 
-Don't create entries just to make the repository look full.
+The repository is a record of my actual journey.
 
-4. Update when something changes.
+Archive instead of deleting
 
-The system doesn't need constant maintenance.
+Important history should be preserved.
 
-5. Archive instead of deleting important history.
+Portfolio = quality
 
-Keep meaningful parts of the journey.
+Only my strongest work belongs in the portfolio.
 
-6. Portfolio means quality.
+Don't manage instead of doing
 
-Only showcase your strongest work.
+The system exists to support my journey — not become my journey.
 
-7. The system supports the journey.
+🌱 My Journey
+             LEARN
+               ↓
+            EXPLORE
+               ↓
+             BUILD
+               ↓
+           COMPETE
+               ↓
+             LEAD
+               ↓
+          CONTRIBUTE
+               ↓
+             GROW
+               ↓
+          MY FUTURE
+⭐ Final Principle
 
-Don't spend more time organizing than actually learning, building and growing.
+Keep it simple. Keep it useful. Keep moving.
 
-🌱 The Bigger Picture
-                       MY JOURNEY
-                            │
-          ┌─────────────────┼─────────────────┐
-          │                 │                 │
-        LEARN              BUILD             GROW
-          │                 │                 │
-      Academics          Projects           Life
-      Technology         Startups           Fitness
-      Reading            Research           Activities
-          │                 │                 │
-          └─────────────────┼─────────────────┘
-                            │
-                     COMPETE & LEAD
-                            │
-                   ┌────────┴────────┐
-                   │                 │
-                 IMPACT            FUTURE
-                   │                 │
-                   └────────┬────────┘
-                            │
-                            ▼
-                       EXPERIENCE
-                            │
-                            ▼
-                        PORTFOLIO
-                            │
-                            ▼
-                       MY IDENTITY
-⭐ Final Rule
+This repository is not meant to prove that I am productive.
 
-The system should support my life — not become my life.
-
-I don't need a perfect system.
-
-I need a system that helps me:
-
-Learn → Build → Explore → Compete → Lead → Contribute → Grow
-
-and allows me to look back years later and see how far I have come.
+It exists to help me learn, build, experience, grow, and remember how far I've come.
 
 <p align="center"> <i>Built for the journey, not just the destination.</i> </p>
