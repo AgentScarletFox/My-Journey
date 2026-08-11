@@ -1,4 +1,4 @@
-# 🔧 WEAKNESSES
+# 🔧 IMPROVEMENTS
 
 > Areas I want to improve without judging myself.
 
