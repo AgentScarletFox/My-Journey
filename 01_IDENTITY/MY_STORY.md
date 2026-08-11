@@ -125,9 +125,9 @@ I want to remember the people who:
 
 **People to add:**
 
-* [ ]
-* [ ]
-* [ ]
+* [ my mother ] 
+* [ my father ]
+* [ my coaches ]
 
 ---
 
