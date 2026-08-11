@@ -82,7 +82,7 @@ Contains:
 ├── VALUES.md
 ├── INTERESTS.md
 ├── STRENGTHS.md
-├── WEAKNESSES.md
+├── IMPROVEMENTS.md
 ├── PRINCIPLES.md
 └── MY_STORY.md
 ```
@@ -134,8 +134,7 @@ EXAM/
 ├── COMPUTER_SCIENCE/
 ├── AI/
 ├── ROBOTICS/
-├── READING/
-└── OTHER/
+└──READING/
 ```
 
 Includes:
