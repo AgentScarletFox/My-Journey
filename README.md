@@ -10,16 +10,16 @@
 
 **MY JOURNEY** is my personal GitHub-based system for organizing and documenting my journey.
 
-It keeps my academics, exams, skills, projects, research, internships, competitions, activities, personal growth, future plans, and achievements in one place.
+It keeps my academics, exams, skills, projects, research, competitions, activities, internships, personal growth, future plans, and achievements in one place.
 
 The system is designed to be:
 
 * 🧭 **Simple** — easy to understand and maintain
 * 🗂️ **Organized** — everything has a clear home
-* 🔄 **Long-term** — built to last for years
+* 🔄 **Long-term** — built to grow with me
 * 🚫 **Non-duplicated** — one main home for each piece of information
-* 📈 **Progress-focused** — records actual growth
-* 🏆 **Portfolio-ready** — preserves evidence of meaningful work
+* 📈 **Progress-focused** — records real growth
+* 🏆 **Portfolio-ready** — preserves meaningful achievements
 
 ---
 
@@ -36,14 +36,13 @@ MY_JOURNEY/
 ├── 03_LEARNING/
 ├── 04_RESEARCH/
 ├── 05_BUILDING/
-├── 06_INTERNSHIPS/
-├── 07_COMPETITIONS/
-├── 08_LEADERSHIP/
-├── 09_LIFE/
-├── 10_IMPACT/
-├── 11_FUTURE/
-├── 12_PORTFOLIO/
-├── 13_ARCHIVE/
+├── 06_COMPETITIONS/
+├── 07_LEADERSHIP/
+├── 08_LIFE/
+├── 09_IMPACT/
+├── 10_FUTURE/
+├── 11_PORTFOLIO/
+├── 12_ARCHIVE/
 │
 └── TEMPLATES/
 ```
@@ -62,14 +61,14 @@ MY_JOURNEY/
 └── INBOX.md
 ```
 
-### Contains
+Contains:
 
-* Current status
-* Important priorities
-* Upcoming deadlines
-* Temporary ideas and tasks
+* Current priorities
+* Important deadlines
+* Current tasks
+* Temporary ideas and information
 
-> **Check this first.**
+> **This is the first place I check.**
 
 ---
 
@@ -88,7 +87,7 @@ MY_JOURNEY/
 └── MY_STORY.md
 ```
 
-This section defines my personal identity rather than my achievements.
+This section describes **me**, not my achievements.
 
 ---
 
@@ -112,7 +111,7 @@ This section defines my personal identity rather than my achievements.
         └── IELTS/
 ```
 
-Each major exam follows the same simple structure:
+Each exam uses the same preparation structure:
 
 ```text
 EXAM/
@@ -123,13 +122,11 @@ EXAM/
 └── REVISION/
 ```
 
-This keeps preparation consistent across exams.
-
 ---
 
 # 💻 03 — LEARNING
 
-**Everything I learn outside regular school and exam preparation.**
+**Skills and knowledge I develop outside regular academics.**
 
 ```text
 03_LEARNING/
@@ -145,9 +142,9 @@ Includes:
 
 * Programming
 * Computer Science
-* Artificial Intelligence
+* AI
 * Robotics
-* Books and reading
+* Reading
 * Courses
 * Other skills
 
@@ -164,14 +161,6 @@ Includes:
 ├── NOTES/
 └── EXPERIMENTS/
 ```
-
-Used for:
-
-* Research questions
-* Papers
-* Literature notes
-* Experiments
-* Discoveries
 
 ---
 
@@ -193,41 +182,16 @@ Used for:
 └── WRITING/
 ```
 
-This is where learning becomes something real.
+This is where I turn ideas and learning into real work.
 
 ---
 
-# 💼 06 — INTERNSHIPS
-
-**My professional experience.**
-
-```text
-06_INTERNSHIPS/
-├── OPPORTUNITIES/
-├── APPLICATIONS/
-├── ACTIVE/
-└── COMPLETED/
-```
-
-Used to record:
-
-* Internship opportunities
-* Applications
-* Interviews
-* Current internships
-* Completed internships
-* Responsibilities
-* Skills gained
-* Outcomes
-
----
-
-# 🏆 07 — COMPETITIONS
+# 🏆 06 — COMPETITIONS
 
 **My competitive journey.**
 
 ```text
-07_COMPETITIONS/
+06_COMPETITIONS/
 ├── UPCOMING/
 ├── APPLICATIONS/
 ├── SUBMISSIONS/
@@ -242,16 +206,16 @@ For:
 * Science competitions
 * AI competitions
 * Entrepreneurship competitions
-* Academic competitions
+* Other competitions
 
 ---
 
-# 🎤 08 — LEADERSHIP
+# 🎤 07 — LEADERSHIP
 
-**Communication, leadership, and extracurricular activities.**
+**Leadership, communication, and extracurricular activities.**
 
 ```text
-08_LEADERSHIP/
+07_LEADERSHIP/
 ├── GAVEL/
 ├── MUN/
 ├── PUBLIC_SPEAKING/
@@ -262,7 +226,7 @@ For:
 Includes:
 
 * Gavel
-* Model United Nations
+* MUN
 * Public speaking
 * Debate
 * Leadership roles
@@ -272,12 +236,12 @@ Includes:
 
 ---
 
-# 🌱 09 — LIFE
+# 🌱 08 — LIFE
 
 **The person beyond academics and technology.**
 
 ```text
-09_LIFE/
+08_LIFE/
 ├── FITNESS/
 ├── SWIMMING/
 ├── DANCE/
@@ -286,70 +250,56 @@ Includes:
 └── REFLECTIONS.md
 ```
 
-Includes:
-
-* Fitness
-* Swimming
-* Dance
-* Hobbies
-* Habits
-* Personal reflections
-
 ---
 
-# ❤️ 10 — IMPACT
+# ❤️ 09 — IMPACT
 
 **How I contribute to other people and my community.**
 
 ```text
-10_IMPACT/
+09_IMPACT/
 ├── VOLUNTEERING/
 ├── COMMUNITY/
 └── CONTRIBUTIONS/
 ```
 
-Includes:
-
-* Volunteering
-* Teaching
-* Community service
-* Social projects
-* Contributions
-* Impact
-
 ---
 
-# 🎯 11 — FUTURE
+# 🎯 10 — FUTURE
 
-**Where I want to go next.**
+**My opportunities and plans for the future.**
 
-This section is intentionally small.
+This section contains the things that help me move toward my next stage.
 
 ```text
-11_FUTURE/
+10_FUTURE/
 ├── UNIVERSITIES.md
-└── SCHOLARSHIPS.md
+├── SCHOLARSHIPS.md
+└── INTERNSHIPS/
 ```
 
-Contains:
+### Universities
 
-* University research
-* Programs and majors
-* Admission requirements
-* Scholarship opportunities
-* Funding information
-* Application planning
+University research, programs, majors, requirements, and application information.
 
-> **Future = Universities + Scholarships.**
+### Scholarships
+
+Scholarship opportunities, eligibility, deadlines, and application information.
+
+### Internships
+
+Internship opportunities and experience that support my future academic and career goals.
+
+> **Future = Universities + Scholarships + Internships.**
 
 ---
 
-# 🏅 12 — PORTFOLIO
+# 🏅 11 — PORTFOLIO
 
-**My strongest accomplishments and work.**
+**My strongest work and achievements.**
 
 ```text
-12_PORTFOLIO/
+11_PORTFOLIO/
 ├── RESUME.md
 ├── ACHIEVEMENTS.md
 ├── PROJECTS.md
@@ -357,40 +307,38 @@ Contains:
 └── BEST_WORK.md
 ```
 
-This is my **showcase**, not a second copy of the repository.
-
-Only important and high-quality work should appear here.
+This is my **showcase**, not a duplicate of the entire repository.
 
 ---
 
-# 🗄️ 13 — ARCHIVE
+# 🗄️ 12 — ARCHIVE
 
-**My history.**
+**My preserved history.**
 
 ```text
-13_ARCHIVE/
+12_ARCHIVE/
 ├── COMPLETED/
 ├── OLD_PLANS/
 └── PAST_REVIEWS/
 ```
 
-Archive is used when something is no longer active but is still worth preserving.
+Used for important things that are no longer active but are worth keeping.
 
 Examples:
 
-* Finished plans
-* Old roadmaps
-* Past reviews
 * Completed work
-* Previous versions
+* Old plans
+* Previous roadmaps
+* Past reviews
+* Historical records
 
-> **Archive instead of deleting important history.**
+> **Archive important history instead of deleting it.**
 
 ---
 
 # 🧩 TEMPLATES
 
-Templates are kept separate from the main life categories.
+Templates are kept separate from the main categories.
 
 ```text
 TEMPLATES/
@@ -405,37 +353,34 @@ TEMPLATES/
 └── APPLICATION.md
 ```
 
-### Template rule
+Templates are optional.
 
-> **A template should save time, not create work.**
-
-I only use templates that are genuinely useful.
+> **If a template doesn't save time, I don't use it.**
 
 ---
 
 # 📍 Where Does Something Go?
 
-| Question                                | Folder            |
-| --------------------------------------- | ----------------- |
-| Is it about who I am?                   | `01_IDENTITY`     |
-| Is it school or exam related?           | `02_ACADEMICS`    |
-| Am I learning it?                       | `03_LEARNING`     |
-| Am I investigating it?                  | `04_RESEARCH`     |
-| Am I creating it?                       | `05_BUILDING`     |
-| Is it an internship?                    | `06_INTERNSHIPS`  |
-| Is it a competition?                    | `07_COMPETITIONS` |
-| Is it leadership/activity related?      | `08_LEADERSHIP`   |
-| Is it part of my personal life?         | `09_LIFE`         |
-| Does it help others?                    | `10_IMPACT`       |
-| Is it about universities/scholarships?  | `11_FUTURE`       |
-| Is it one of my strongest achievements? | `12_PORTFOLIO`    |
-| Is it old but worth keeping?            | `13_ARCHIVE`      |
+| If it is...                            | Put it in...      |
+| -------------------------------------- | ----------------- |
+| About who I am                         | `01_IDENTITY`     |
+| School or entrance exams               | `02_ACADEMICS`    |
+| Something I'm learning                 | `03_LEARNING`     |
+| Something I'm researching              | `04_RESEARCH`     |
+| Something I'm creating                 | `05_BUILDING`     |
+| A competition                          | `06_COMPETITIONS` |
+| Leadership or activities               | `07_LEADERSHIP`   |
+| Personal life                          | `08_LIFE`         |
+| Helping others                         | `09_IMPACT`       |
+| University, scholarship, or internship | `10_FUTURE`       |
+| Strongest achievements                 | `11_PORTFOLIO`    |
+| Old but important material             | `12_ARCHIVE`      |
 
 ---
 
 # 🚫 No Duplication
 
-Every important item should have **one primary location**.
+Every important item should have **one primary home**.
 
 For example:
 
@@ -445,22 +390,22 @@ PROJECT
    ▼
 05_BUILDING/PROJECTS/ACTIVE/
    │
-   ├── Competition entry
+   ├── Entered into competition
    │       ↓
-   │   07_COMPETITIONS/SUBMISSIONS/
+   │   06_COMPETITIONS/SUBMISSIONS/
    │
-   ├── Strong achievement
+   ├── Becomes a major achievement
    │       ↓
-   │   12_PORTFOLIO/PROJECTS.md
+   │   11_PORTFOLIO/PROJECTS.md
    │
-   └── Finished
+   └── Eventually finished
            ↓
        05_BUILDING/PROJECTS/COMPLETED/
 ```
 
-The project itself remains in its original location.
+The original project remains in `05_BUILDING`.
 
-Other sections can **reference it** instead of copying it.
+Other sections should **reference it rather than duplicate it**.
 
 > **One source of truth.**
 
@@ -496,9 +441,9 @@ Review:
 
 * What did I accomplish?
 * What did I learn?
-* What problems did I face?
+* What went wrong?
 * What should I improve?
-* What matters next?
+* What should I focus on next?
 
 ---
 
@@ -510,14 +455,13 @@ Use:
 TEMPLATES/MONTHLY.md
 ```
 
-Review the bigger picture:
+Review:
 
 * Academics
 * Exams
 * Learning
 * Research
 * Projects
-* Internships
 * Competitions
 * Leadership
 * Life
@@ -526,75 +470,65 @@ Review the bigger picture:
 
 ---
 
-# 📈 Long-Term System
-
-```text
-                 MY JOURNEY
-                      │
-        ┌─────────────┼─────────────┐
-        │             │             │
-     LEARNING      BUILDING      GROWING
-        │             │             │
-      Exams       Projects        Life
-      Skills      Startups       Activities
-      Reading     Research       Leadership
-        │             │             │
-        └─────────────┼─────────────┘
-                      │
-                  EXPERIENCE
-                      │
-                ACHIEVEMENTS
-                      │
-                  PORTFOLIO
-                      │
-                   FUTURE
-```
-
----
-
 # 📜 Core Rules
 
 ### 1. Keep it simple
 
-Don't create a folder unless it has a real purpose.
+Don't create folders unless they have a real purpose.
 
 ### 2. One source of truth
 
-Don't maintain unnecessary duplicates.
+Don't unnecessarily copy the same information into multiple places.
 
-### 3. Record real work
+### 3. Record real progress
 
-This repository should reflect what I actually do.
+This repository should represent my actual journey.
 
-### 4. Archive, don't erase
+### 4. Archive instead of deleting
 
 Important history should remain accessible.
 
-### 5. Portfolio means quality
+### 5. Portfolio = quality
 
 Only my strongest work belongs in the portfolio.
 
 ### 6. Don't over-document
 
-The system should never become more work than the actual journey.
+The system should never become more work than the journey itself.
 
 ---
 
-# 🌱 The Philosophy
+# 🌱 My Journey
 
-> **The system should support my life — not become my life.**
-
-I want to use MY JOURNEY to:
-
-**Learn → Build → Explore → Compete → Lead → Contribute → Grow**
-
-and eventually look back and see the person I became.
+```text
+                    MY JOURNEY
+                         │
+        ┌────────────────┼────────────────┐
+        │                │                │
+     LEARNING         BUILDING         GROWING
+        │                │                │
+      Exams          Projects           Life
+      Skills         Startups          Activities
+      Reading        Research          Leadership
+        │                │                │
+        └────────────────┼────────────────┘
+                         │
+                    EXPERIENCE
+                         │
+                    ACHIEVEMENTS
+                         │
+                     PORTFOLIO
+                         │
+                       FUTURE
+```
 
 ---
 
-## ⭐ Final Rule
+## ⭐ Final Principle
 
 > **Keep it simple. Keep it useful. Keep moving.**
+
+This repository exists to help me **learn, build, experience, grow, and remember how far I've come.**
 
 <p align="center">
   <i>Built for the journey, not just the destination.</i>
